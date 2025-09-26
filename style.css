@@ -35,7 +35,7 @@ body {
 header {
 
 }
-header > span#subtitle {
+header > #subtitle {
     display: block;
     padding-bottom: 10px;
 }
