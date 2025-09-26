@@ -1,0 +1,40 @@
+
+/* General Rules*/
+div > span {
+    display: block;
+}
+ol {
+    padding-bottom: 10px;
+}
+h2 {
+    padding-top: 35px;
+}
+/* ol > li {
+    text-align: justify;
+} */
+li:nth-of-type(n+1) {
+    padding-top: 10px;
+}
+
+/* Sectional Rules */
+body {
+    font-family: "Crimson Text", serif;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: justify;
+    width: 700px;
+}
+header {
+
+}
+body > section { /* top-level section / main-content body */
+
+}
+footer {
+    padding-top: 80px
+}
+footer > span {
+    display: block;
+}
