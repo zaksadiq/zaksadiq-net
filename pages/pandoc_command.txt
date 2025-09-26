@@ -1,1 +1,1 @@
-pandoc --standalone --template template.html 26-09-2025_00.md -o 26-09-2025_00.md
+pandoc --standalone --template template.html 26-09-2025_00.md -o 26-09-2025_00.html
