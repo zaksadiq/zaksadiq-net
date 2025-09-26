@@ -6,6 +6,9 @@
 .highlight {
     background: aquamarine;
 }
+.italics {
+    font-style: oblique;
+}
 div > span {
     display: block;
 }
