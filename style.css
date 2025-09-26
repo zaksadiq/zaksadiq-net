@@ -1,9 +1,10 @@
 
 /* General Rules*/
-.highlight {
-    /* background: aquamarine; */
-    /* text-decoration: solid underline aquamarine 6px; */
+.underline {
     text-decoration: solid underline black 1px;
+}
+.highlight {
+    background: aquamarine;
 }
 div > span {
     display: block;
