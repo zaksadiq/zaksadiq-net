@@ -1,5 +1,9 @@
 
 /* General Rules*/
+.highlight {
+    /* background: aquamarine; */
+    text-decoration: solid underline aquamarine 6px;
+}
 div > span {
     display: block;
 }
