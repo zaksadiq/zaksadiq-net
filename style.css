@@ -1,6 +1,7 @@
 
 header > .banner {
-    background: center/110% url('https://www.zaksadiq.net/media/banner.gif');
+    /* background: center/110% url('https://www.zaksadiq.net/media/banner.gif'); */
+    border-bottom: 1px solid black;
 }
 footer > .banner {
     background: #fbfbfb;
