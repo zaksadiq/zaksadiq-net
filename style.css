@@ -1,11 +1,17 @@
 
-#banner-gif {
+header > .banner {
     background: center/110% url('https://www.zaksadiq.net/media/banner.gif');
-    height: 50px;
-    width: 100%;
+}
+footer > .banner {
+    background: #eee;
+    margin-top: 10px;
 }
 
 /* General Rules*/
+.banner {
+    height: 50px;
+    width: 100%;
+}
 .underline {
     text-decoration: solid underline black 1px;
 }
@@ -37,8 +43,7 @@ body {
     font-style: normal;
     font-weight: 400;
     margin: 0 auto;
-    padding: 25px;
-    padding-top: 0;
+    padding: 0 25px;
     text-align: justify;
     max-width: 700px;
 }
