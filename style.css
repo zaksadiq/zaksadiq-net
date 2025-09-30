@@ -1,13 +1,4 @@
 
-header > .banner {
-    /* background: center/110% url('https://www.zaksadiq.net/media/banner.gif'); */
-    border-bottom: 1px solid black;
-}
-footer > .banner {
-    /* background: #fbfbfb; */
-    border-top: 1px solid black;
-    margin-top: 10px;
-}
 
 /* General Rules*/
 .banner {
@@ -52,6 +43,9 @@ body {
 header {
 
 }
+header > .banner {
+    border-bottom: 1px solid black;
+}
 header > #subtitle {
     display: block;
     padding-bottom: 10px;
@@ -64,4 +58,8 @@ footer {
 }
 footer > span {
     display: block;
+}
+footer > .banner {
+    border-top: 1px solid black;
+    margin-top: 10px;
 }
