@@ -1,4 +1,10 @@
 
+#banner-gif {
+    background: center/110% url('/media/banner.gif');
+    height: 50px;
+    width: 100%;
+}
+
 /* General Rules*/
 .underline {
     text-decoration: solid underline black 1px;
@@ -32,6 +38,7 @@ body {
     font-weight: 400;
     margin: 0 auto;
     padding: 25px;
+    padding-top: 0;
     text-align: justify;
     max-width: 700px;
 }
