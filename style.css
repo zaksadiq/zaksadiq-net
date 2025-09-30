@@ -4,7 +4,8 @@ header > .banner {
     border-bottom: 1px solid black;
 }
 footer > .banner {
-    background: #fbfbfb;
+    /* background: #fbfbfb; */
+    border-top: 1px solid black;
     margin-top: 10px;
 }
 
