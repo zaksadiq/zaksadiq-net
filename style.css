@@ -20,6 +20,9 @@ div > span {
 ol {
     padding-bottom: 10px;
 }
+ol, ul {
+    text-align: left;
+}
 h2 {
     padding-top: 35px;
 }
