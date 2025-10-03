@@ -57,6 +57,7 @@ section#main { /* top-level section / main-content body */
 
 }
 footer {
+    line-height: 1.8em;
     padding-top: 80px
 }
 footer > span {
