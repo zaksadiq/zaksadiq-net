@@ -51,7 +51,7 @@ header > #subtitle {
     padding-bottom: 10px;
 }
 section#main { /* top-level section / main-content body */
-
+    padding-top: 65px;
 }
 footer {
     line-height: 1.8em;
